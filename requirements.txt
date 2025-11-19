@@ -1,3 +1,2 @@
-kalshi-python
+git+https://github.com/nickzinn/kalshi-python.git
 cryptography
-pycryptodome
