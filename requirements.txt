@@ -1,1 +1,3 @@
 kalshi-python
+cryptography
+pycryptodome
